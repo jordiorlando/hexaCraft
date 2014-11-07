@@ -1,3 +1,4 @@
+<img src="hexaCraft.png">
 hexaCraft
 =========
 
